@@ -25,3 +25,10 @@ This project contains a Python script for Autodesk Fusion 360 that automates the
 5.  You will be prompted to enter the width, depth, and height for the box.
 6.  After entering the values, the script will automatically generate the 3D model in your active design.
 
+## Before-and-After Screenshots
+
+### Before
+![An empty Fusion 360 workspace](before.png)
+
+### After
+![The final generated 3D box](after.png)
