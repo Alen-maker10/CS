@@ -1,1 +1,27 @@
+# Parametric Box Creator for Fusion 360
+
+This project contains a Python script for Autodesk Fusion 360 that automates the creation of a rectangular box. The script prompts the user to enter a desired width, depth, and height, and then generates a 3D model based on those parameters.
+
+## Deliverables
+- **Python Script:** `CreateBox.py`
+- **Model Screenshots:** Before and After images showing the script in action.
+
+## Installation
+
+1.  Ensure you have Autodesk Fusion 360 installed.
+2.  Download the `CreateBox.py` script from this repository.
+3.  Open Fusion 360.
+4.  Navigate to the **UTILITIES** tab in the top toolbar.
+5.  Click **Scripts and Add-Ins**.
+6.  In the "Scripts and Add-Ins" dialog, select the "My Scripts" folder and click the **`+`** icon.
+7.  Create a new folder for the script (e.g., "BoxCreator") and copy the `CreateBox.py` file into that directory.
+
+## Usage
+
+1.  Open Fusion 360.
+2.  Go to **UTILITIES -> Scripts and Add-Ins**.
+3.  Find the `CreateBox` script under "My Scripts".
+4.  Select it and click **Run**.
+5.  You will be prompted to enter the width, depth, and height for the box.
+6.  After entering the values, the script will automatically generate the 3D model in your active design.
 
